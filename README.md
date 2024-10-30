@@ -1,4 +1,4 @@
-# EC_601_Project_VQA
+# VQA APPLICATION DEMO
 ## Introduction
 Visual Question Answering (VQA) is the system that combines Knowledge Representation & Reasoning, Computer Vision, and Natural Language Processing. [1] In this system, it takes images and natural language as input and gives the natural language answers as output. VQA could be very helpful when it is applied to scenarios of object detections or acquisition of information. 
 
